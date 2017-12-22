@@ -1,11 +1,11 @@
 # Node.js Todo List Application
 
-> This APP is from video ["Node JS Tutorial for Beginners"][link1] in Youtube. Written by The Net Ninja, modified by me.
+> Declare: This APP is originnally from video ["Node JS Tutorial for Beginners"][link1] in Youtube, written by The Net Ninja, modified by me.
 
 ## Functions
 
-1. Add
-2. Remove
+1. Add Todo
+2. Remove Todo
 
 ## Dependencies
 
@@ -29,6 +29,6 @@ npm install
 node index
 ```
 
-Then open browser, enter http://localhost:3000/todo.
+Then open browser, enter http://localhost:3000.
 
 [link1]: https://www.youtube.com/watch?v=edOmvng5IQc&index=31&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
