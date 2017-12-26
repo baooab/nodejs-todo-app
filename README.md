@@ -1,6 +1,6 @@
 # Node.js Todo List Application
 
-> Declare: This APP is originnally from video ["Node JS Tutorial for Beginners"][link1] in Youtube, written by The Net Ninja, modified by me.
+> Declare: This APP is originally from video ["Node JS Tutorial for Beginners"][link1] in Youtube, written by The Net Ninja, modified by me.
 
 ![](./app_page.png)
 
